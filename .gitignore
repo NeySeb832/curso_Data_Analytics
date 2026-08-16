@@ -3,3 +3,6 @@
 __pycache__/
 *.pyc
 autoevaluacion_python_*.csv
+
+# Privacidad: base de clientes del lab (contiene nombres reales)
+Restaurant-Customers.csv
