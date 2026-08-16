@@ -1,0 +1,15 @@
+# Privacidad: NO publicar la base de clientes con nombres reales.
+Restaurant-Customers.csv
+data/Restaurant-Customers.csv
+
+# Artefactos de compilación LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
