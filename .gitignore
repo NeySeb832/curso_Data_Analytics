@@ -6,3 +6,6 @@ autoevaluacion_python_*.csv
 
 # Privacidad: base de clientes del lab (contiene nombres reales)
 Restaurant-Customers.csv
+
+# Zip original de insumos del laboratorio SECOP (no es un entregable)
+Laboratorio SECOP II-*.zip
